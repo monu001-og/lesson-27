@@ -1,0 +1,10 @@
+/* Global Properties*/
+html {
+
+    scroll-behaviour:smooth;
+}
+
+body{
+    background:#252525;
+    font-family:"Balooo Tamma 2,cursive "
+}
